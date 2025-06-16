@@ -1,5 +1,5 @@
 
-# 🧠 Football Match Outcome Prediction Using Machine Learning and Deep Learning
+# 🧠 Football Match Outcome Prediction  Using Machine Learning and Deep Learning
 
 This project focuses on predicting the outcome of football (soccer) matches using multiple machine learning and deep learning models. The dataset used is based on English Premier League match results and statistics. The main objective is to classify match results as **Home Win**, **Draw**, or **Away Win**.
 
